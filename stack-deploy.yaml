@@ -1,0 +1,3 @@
+template-file-path: AWSTemplateFormatVersion2.yaml
+
+parameters:
